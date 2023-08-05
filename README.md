@@ -1,0 +1,1 @@
+This project helped me to understand how to mentally visualize what a website is looking like as I work on it and how to make an appropriate file structure for a website. I demonstrated that I can build a webpage with html that displays text in headings, paragraphs and lists, and that I can link webpages together as well as incorporate images into the website.
